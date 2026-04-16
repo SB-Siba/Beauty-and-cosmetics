@@ -68,3 +68,85 @@ This section has moved here: [https://facebook.github.io/create-react-app/docs/d
 ### `npm run build` fails to minify
 
 This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
+
+
+# Glow Culture - Premium Beauty E-Commerce Platform
+
+![Glow Culture Banner](https://via.placeholder.com/1200x400/7c5730/ffffff?text=Glow+Culture)
+
+## 🌟 Overview
+
+Glow Culture is a modern, full-featured e-commerce platform dedicated to premium beauty products. Built with cutting-edge web technologies, it offers a seamless shopping experience for skincare, makeup, and fragrance enthusiasts. The platform combines elegant design with powerful functionality to create an engaging online beauty destination.
+
+## ✨ Features
+
+### 🛍️ Core Features
+- **Product Catalog** - Browse through curated collections of skincare, makeup, and fragrance products
+- **Shopping Cart** - Add/remove items, update quantities, and proceed to checkout
+- **Wishlist** - Save favorite products for later purchase
+- **User Authentication** - Register, login, and manage profile
+- **Product Search** - Real-time search with filters and categories
+- **Product Details** - Detailed product pages with magnifier zoom effect
+
+### 🤖 Advanced Features
+- **AI Chatbot** - Intelligent customer support assistant for instant help
+- **Order Tracking** - Track your orders from purchase to delivery
+- **Reviews & Ratings** - Customer reviews and rating system
+- **Responsive Design** - Fully responsive across all devices
+- **Dark Mode Support** - Toggle between light and dark themes
+- **Smooth Animations** - Framer Motion powered transitions and effects
+
+### 📄 Pages
+- Home Page with Hero Section
+- Marketplace - Browse all products
+- Product Details with Image Magnifier
+- Collections - Category-based browsing
+- Designers - Meet our creative team
+- Trends - Latest beauty insights
+- About Us - Company story
+- Contact - Get in touch
+- FAQ - Frequently asked questions
+- Returns & Shipping Policies
+- Privacy Policy & Terms of Service
+- User Profile & Orders
+
+## 🛠️ Tech Stack
+
+### Frontend
+- **React.js** (v18) - UI library
+- **React Router DOM** (v6) - Navigation
+- **Tailwind CSS** - Styling framework
+- **Framer Motion** - Animations
+- **Context API** - State management
+
+### Icons & Assets
+- **React Icons** - Icon library
+- **Google Material Symbols** - Additional icons
+- **Custom Logo** - Brand identity
+
+### Development Tools
+- **Create React App** - Project scaffolding
+- **npm** - Package manager
+- **Git** - Version control
+
+## 📦 Installation & Setup
+
+### Prerequisites
+- Node.js (v14 or higher)
+- npm (v6 or higher)
+- Git
+
+### Clone the Repository
+
+```bash
+# Clone the project
+git clone https://github.com/yourusername/glow-culture.git
+
+# Navigate to project directory
+cd glow-culture
+
+# Install dependencies
+npm install
+
+# Start development server
+npm start
